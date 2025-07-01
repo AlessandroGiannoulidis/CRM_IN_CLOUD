@@ -1,10 +1,10 @@
 {
-  "name": "CRM in Cloud Link",
-  "short_name": "CRM Cloud",
-  "start_url": "/",
+  "name": "AcquistinretePA",
+  "short_name": "MePA",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#1976d2",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "icon-192.png",
