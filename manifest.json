@@ -1,6 +1,6 @@
 {
-  "name": "AcquistinretePA",
-  "short_name": "MePA",
+  "name": "CRM in Cloud",
+  "short_name": "CRM",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
